@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Estimating Power Outage Impacts from the February 2021 Texas Winter Storms
 
 ## About
