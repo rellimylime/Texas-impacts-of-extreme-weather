@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains a geospatial analysis estimating the number of homes that lost power in the Houston metropolitan area during the February 2021 Texas winter storms. The analysis uses remotely-sensed night lights data to identify areas that experienced blackouts and investigates potential socioeconomic disparities in storm impacts.
+This repository contains a geospatial analysis estimating the number of homes that lost power in the Houston metropolitan area during the February 2021 Texas winter storms. The analysis uses remotely-sensed night lights data to identify areas that experienced blackouts and investigate potential socioeconomic disparities in storm impacts.
 
 **Analysis Objectives:**
 - Identify locations that experienced power outages using VIIRS night lights data
